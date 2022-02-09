@@ -1,7 +1,6 @@
 
 ## 一、插件功能
 
-
 讓玩家能快速撰寫一篇Twitter推文，協助遊戲宣傳
 
 
@@ -13,7 +12,6 @@
 - 在這個GitHub頁面下載`TwitterShare.unitypackage`
 - 在Unity使用 Assets/import Package 打開`TwitterShare.unitypackage`。
 
-![](https://i.imgur.com/YfkX4lr.png)
 
 ## 三、使用說明
 
@@ -54,7 +52,7 @@
     - 範例: score=100，在推文中會顯示 (我打了100隻勞淑)
 - tweetMainContext : 主要推文撰寫區
     - 請打開程式碼，在31行的tweetMainContext撰寫推文內容
-    - ![](https://i.imgur.com/P0wz2dM.png =70%x)
+    - ![](https://i.imgur.com/P0wz2dM.png)
 - GAME_LINK : 你的遊戲連結
 - twittertags : 遊戲hashtags
     - 請使用,(逗號)隔開兩個hashtags
