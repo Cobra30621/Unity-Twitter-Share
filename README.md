@@ -1,4 +1,3 @@
-# Unity Twitter 分享
 
 ## 一、插件功能
 
@@ -11,8 +10,8 @@
 
 ## 二、下載
 
-- 在GitHub頁面下載`TwitterShare.unitypackage`
-- 在Unity使用 Assets/import Package 打開。
+- 在這個GitHub頁面下載`TwitterShare.unitypackage`
+- 在Unity使用 Assets/import Package 打開`TwitterShare.unitypackage`。
 
 ## 三、使用說明
 
@@ -57,5 +56,3 @@
 - GAME_LINK : 你的遊戲連結
 - twittertags : 遊戲hashtags
     - 請使用,(逗號)隔開兩個hashtags
-
-
