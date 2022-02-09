@@ -13,6 +13,8 @@
 - 在這個GitHub頁面下載`TwitterShare.unitypackage`
 - 在Unity使用 Assets/import Package 打開`TwitterShare.unitypackage`。
 
+![](https://i.imgur.com/YfkX4lr.png)
+
 ## 三、使用說明
 
 ![](https://i.imgur.com/YfkX4lr.png)
